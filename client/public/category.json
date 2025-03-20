@@ -1,0 +1,52 @@
+[
+    {
+        "image": "electronic.jpg",
+        "path": "Electronics"
+    },
+    {
+        "image": "fashion.jpg",
+        "path": "Fashion & Apparel"
+    },
+    {
+        "image": "beauty.jpg",
+        "path": "Beauty & Personal Care"
+    },
+
+    {
+        "image": "books.jpg",
+        "path": "Books & Stationery"
+    },
+    {
+        "image": "toys.jpg",
+        "path": "Toys & Games"
+    },
+    {
+        "image": "sport.jpg",
+        "path": "Sports & Outdoors"
+    },
+    {
+        "image": "electronic.jpg",
+        "path": "Electronics"
+    },
+    {
+        "image": "fashion.jpg",
+        "path": "Fashion & Apparel"
+    },
+    {
+        "image": "beauty.jpg",
+        "path": "Beauty & Personal Care"
+    },
+
+    {
+        "image": "books.jpg",
+        "path": "Books & Stationery"
+    },
+    {
+        "image": "toys.jpg",
+        "path": "Toys & Games"
+    },
+    {
+        "image": "sport.jpg",
+        "path": "Sports & Outdoors"
+    }
+]
